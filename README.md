@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Connect with me me here:
+
+[sachinjoseph.com](sachinjoseph.com), [Twitter](https://twitter.com/sachinjoseph), [Stack Overflow](https://stackoverflow.com/users/1724702/sachin-joseph), <a rel="me" href="https://hachyderm.io/@sachinjoseph">Mastodon<a>, [LinkedIn](https://linkedin.com/in/sachinjoseph)
 <!--
 **sachinjoseph/sachinjoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
